@@ -2,4 +2,4 @@
 
 Hi my name is Ethan. This is my first README.
 
-Program will input due dates from Canvas assignments and upload them to google calendar.
+Web application will take liked songs playlist and compare to selected playlist of choice and create a new playlist with songs that appear in both playlists. PLaylist will be auto deleted after a certain amount of time set by the user to prevent clutter. 
